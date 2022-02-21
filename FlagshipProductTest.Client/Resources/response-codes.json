@@ -1,0 +1,16 @@
+{
+
+  "FS001": "Invalid Request",
+  "FS002": "Username does not match the required format.",
+  "FS003": "This username already exists.",
+  "FS004": "Date of birth is greater than current year.",
+  "FS005": "Is not a valid base 64 string.",
+  "FS006": "Invalid login credentials supplied.",
+  "FS007": "Your profile is locked, kindly reset your password or contact an admin.",
+  "FS008": "Your Profile is inactive, kindly contact an admin.",
+  "FS009": "No contribution found.",
+  "FS010": "No user found.",
+
+
+  "FS999": "Opps, something went wrong. This is on us, please try again"
+}

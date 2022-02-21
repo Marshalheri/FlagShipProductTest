@@ -1,0 +1,12 @@
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Shared\obj\Debug\net5.0\FlagshipProductTest.Shared.csprojAssemblyReference.cache
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Shared\obj\Debug\net5.0\FlagshipProductTest.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Shared\obj\Debug\net5.0\FlagshipProductTest.Shared.AssemblyInfoInputs.cache
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Shared\obj\Debug\net5.0\FlagshipProductTest.Shared.AssemblyInfo.cs
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Shared\obj\Debug\net5.0\FlagshipProductTest.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Shared\bin\Debug\net5.0\FlagshipProductTest.Shared.deps.json
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Shared\bin\Debug\net5.0\FlagshipProductTest.Shared.dll
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Shared\bin\Debug\net5.0\ref\FlagshipProductTest.Shared.dll
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Shared\bin\Debug\net5.0\FlagshipProductTest.Shared.pdb
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Shared\obj\Debug\net5.0\FlagshipProductTest.Shared.dll
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Shared\obj\Debug\net5.0\ref\FlagshipProductTest.Shared.dll
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Shared\obj\Debug\net5.0\FlagshipProductTest.Shared.pdb

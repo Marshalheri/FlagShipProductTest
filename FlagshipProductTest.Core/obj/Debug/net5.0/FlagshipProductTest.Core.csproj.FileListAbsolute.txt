@@ -1,0 +1,15 @@
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Core\obj\Debug\net5.0\FlagshipProductTest.Core.csprojAssemblyReference.cache
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Core\obj\Debug\net5.0\FlagshipProductTest.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Core\obj\Debug\net5.0\FlagshipProductTest.Core.AssemblyInfoInputs.cache
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Core\obj\Debug\net5.0\FlagshipProductTest.Core.AssemblyInfo.cs
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Core\obj\Debug\net5.0\FlagshipProductTest.Core.csproj.CoreCompileInputs.cache
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Core\bin\Debug\net5.0\FlagshipProductTest.Core.deps.json
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Core\bin\Debug\net5.0\FlagshipProductTest.Core.dll
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Core\bin\Debug\net5.0\ref\FlagshipProductTest.Core.dll
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Core\bin\Debug\net5.0\FlagshipProductTest.Core.pdb
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Core\bin\Debug\net5.0\FlagshipProductTest.Shared.dll
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Core\bin\Debug\net5.0\FlagshipProductTest.Shared.pdb
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Core\obj\Debug\net5.0\FlagshipProductTest.Core.csproj.CopyComplete
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Core\obj\Debug\net5.0\FlagshipProductTest.Core.dll
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Core\obj\Debug\net5.0\ref\FlagshipProductTest.Core.dll
+C:\Users\Chizoba\Documents\Chizoba\repo\FlagshipProductTest\FlagshipProductTest.Core\obj\Debug\net5.0\FlagshipProductTest.Core.pdb

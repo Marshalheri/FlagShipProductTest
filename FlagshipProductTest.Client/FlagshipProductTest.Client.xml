@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FlagshipProductTest.Client</name>
+    </assembly>
+    <members>
+        <member name="M:FlagshipProductTest.Client.Controllers.AdminController.AuthenticatAdminUser(FlagshipProductTest.Shared.DTOs.Admin.AdminLoginRequestDTO)">
+            <summary>
+            Authenticate an admin user
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FlagshipProductTest.Client.Controllers.AdminController.OnboardUser(FlagshipProductTest.Shared.DTOs.Admin.AdminOnboardingRequestDTO,System.String)">
+            <summary>
+            Onboard a new admin user
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FlagshipProductTest.Client.Controllers.AdminController.GetAllUsersContributions">
+            <summary>
+            Get all customers contributions
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FlagshipProductTest.Client.Controllers.AdminController.GetAllUsers">
+            <summary>
+            Get all customers details
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FlagshipProductTest.Client.Controllers.UserController.AuthenticatUser(FlagshipProductTest.Shared.DTOs.User.UserLoginRequestDTO)">
+            <summary>
+            Authenticate a user
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FlagshipProductTest.Client.Controllers.UserController.OnboardUser(FlagshipProductTest.Shared.DTOs.User.UserOnboardingRequestDTO)">
+            <summary>
+            Onboard a new user
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FlagshipProductTest.Client.Controllers.UserController.AddUserContribution(FlagshipProductTest.Shared.DTOs.User.AddContributionRequestDTO)">
+            <summary>
+            Add user contribution
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FlagshipProductTest.Client.Controllers.UserController.GetUserContributionDetails">
+            <summary>
+            Get user contributions
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
